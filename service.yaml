@@ -1,0 +1,8 @@
+# Demo service config
+company: SignalWave Media
+industry: media
+service: subscriber-identity
+risk_controls:
+  - change approval
+  - audit trail
+  - secure code review
